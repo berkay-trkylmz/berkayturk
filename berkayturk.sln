@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "berkayturk", "berkayturk\berkayturk.csproj", "{80435678-D594-4A2B-8D56-C769F36D6AF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		berkayturk|Any CPU = berkayturk|Any CPU
+		berkayturk|x64 = berkayturk|x64
+		berkayturk|x86 = berkayturk|x86
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80435678-D594-4A2B-8D56-C769F36D6AF1}.berkayturk|Any CPU.ActiveCfg = berkayturk|Any CPU
+		{80435678-D594-4A2B-8D56-C769F36D6AF1}.berkayturk|Any CPU.Build.0 = berkayturk|Any CPU
+		{80435678-D594-4A2B-8D56-C769F36D6AF1}.berkayturk|x64.ActiveCfg = berkayturk|x64
+		{80435678-D594-4A2B-8D56-C769F36D6AF1}.berkayturk|x64.Build.0 = berkayturk|x64
+		{80435678-D594-4A2B-8D56-C769F36D6AF1}.berkayturk|x86.ActiveCfg = berkayturk|x64
+		{80435678-D594-4A2B-8D56-C769F36D6AF1}.berkayturk|x86.Build.0 = berkayturk|x64
+		{80435678-D594-4A2B-8D56-C769F36D6AF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80435678-D594-4A2B-8D56-C769F36D6AF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80435678-D594-4A2B-8D56-C769F36D6AF1}.Debug|x64.ActiveCfg = Debug|x64
+		{80435678-D594-4A2B-8D56-C769F36D6AF1}.Debug|x64.Build.0 = Debug|x64
+		{80435678-D594-4A2B-8D56-C769F36D6AF1}.Debug|x86.ActiveCfg = Debug|x86
+		{80435678-D594-4A2B-8D56-C769F36D6AF1}.Debug|x86.Build.0 = Debug|x86
+		{80435678-D594-4A2B-8D56-C769F36D6AF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80435678-D594-4A2B-8D56-C769F36D6AF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80435678-D594-4A2B-8D56-C769F36D6AF1}.Release|x64.ActiveCfg = Release|x64
+		{80435678-D594-4A2B-8D56-C769F36D6AF1}.Release|x64.Build.0 = Release|x64
+		{80435678-D594-4A2B-8D56-C769F36D6AF1}.Release|x86.ActiveCfg = Release|x86
+		{80435678-D594-4A2B-8D56-C769F36D6AF1}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C6CC240-B3B4-46F1-BBBD-FD8A6C6B952C}
+	EndGlobalSection
+EndGlobal
